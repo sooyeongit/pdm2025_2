@@ -8,6 +8,11 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
+/**
+ * @author Soo Yeon Kim
+ * <a href="sooyeongit:sooyeonkimunam@ciencias.unam.mx">sooyeonkimunam@ciencias.unam.mx</a>
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
