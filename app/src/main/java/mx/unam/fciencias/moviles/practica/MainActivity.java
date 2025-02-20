@@ -11,6 +11,9 @@ import androidx.core.view.WindowInsetsCompat;
 /**
  * @author Soo Yeon Kim
  * <a href="sooyeongit:sooyeonkimunam@ciencias.unam.mx">sooyeonkimunam@ciencias.unam.mx</a>
+ * @author Rojas Lira Uriel
+ * <a href="Rojas-Lira17:rjslr17@ciencias.unam.mx">rjslr17@ciencias.unam.mx<a/>
+ * Testing otra vez
  */
 
 public class MainActivity extends AppCompatActivity {
